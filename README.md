@@ -1,15 +1,15 @@
-<h1 align="center">👋 Hola, soy Cristian Castaño</h1>
-<h3 align="center">Analista Desarrollador Senior | Líder Técnico · Medellín, Colombia 🇨🇴</h3>
+<h1 align="center">👋 Hey, I'm Cristian Castaño</h1>
+<h3 align="center">Senior Developer Analyst | Tech Lead · Medellín, Colombia 🇨🇴</h3>
 
 <br/>
 
-## 🧑‍💻 Sobre mí
+## 🧑‍💻 About Me
 
-Ingeniero de Sistemas con **7+ años de experiencia** en desarrollo de aplicaciones empresariales en **Quipux SAS**. Me especializo en arquitecturas Java/Spring Boot, modernización de sistemas legados, liderazgo técnico de equipos y calidad de software. Incorporo herramientas de IA como apoyo al desarrollo manteniendo siempre criterio técnico propio.
+Systems Engineer with **7+ years of experience** building enterprise applications at **Quipux SAS**. I specialize in Java/Spring Boot architectures, legacy system modernization, technical team leadership, and software quality. I leverage AI tools to support development while always maintaining my own technical judgment.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
 
 **Backend**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -24,12 +24,12 @@ Ingeniero de Sistemas con **7+ años de experiencia** en desarrollo de aplicacio
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Bases de datos**
+**Databases**
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**DevOps & Calidad**
+**DevOps & Quality**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -37,18 +37,18 @@ Ingeniero de Sistemas con **7+ años de experiencia** en desarrollo de aplicacio
 
 ---
 
-## 🚀 Lo que hago
+## 🚀 What I Do
 
-- 🏗️ **Arquitectura & Backend** — Aplicaciones empresariales con Java y Spring Boot, servicios REST/SOAP e integración de sistemas
-- 🎨 **Frontend** — Interfaces modernas con Angular, TypeScript y PrimeFaces
-- 🐳 **Modernización** — Migración de aplicaciones legadas a arquitecturas Docker y Spring Boot
-- 🔍 **Calidad** — Análisis de deuda técnica con SonarQube y construcción de pruebas unitarias
-- 👨‍🏫 **Liderazgo técnico** — Mentoría de desarrolladores, revisión de código y decisiones de arquitectura
-- 🤖 **IA aplicada** — Uso estratégico de herramientas IA para refactorización, generación y análisis de código
+- 🏗️ **Architecture & Backend** — Enterprise applications with Java and Spring Boot, REST/SOAP services and system integration
+- 🎨 **Frontend** — Modern interfaces with Angular, TypeScript and PrimeFaces
+- 🐳 **Modernization** — Migration of legacy systems to Docker and Spring Boot architectures
+- 🔍 **Quality** — Technical debt analysis with SonarQube and unit test development
+- 👨‍🏫 **Tech Leadership** — Developer mentoring, code reviews and architecture decisions
+- 🤖 **Applied AI** — Strategic use of AI tools for refactoring, code generation and analysis
 
 ---
 
-## 📫 Contacto
+## 📫 Get in Touch
 
 <p align="center">
   <a href="mailto:cristcastano@gmail.com">
@@ -56,9 +56,9 @@ Ingeniero de Sistemas con **7+ años de experiencia** en desarrollo de aplicacio
   </a>
   &nbsp;
   <a href="tel:+573117754978">
-    <img src="https://img.shields.io/badge/Tel-311%20775%2049%2078-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Phone-311%20775%2049%2078-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
 <br/>
-<p align="center"><i>⚡ "El código limpio hoy evita la deuda técnica mañana."</i></p>
+<p align="center"><i>⚡ "Clean code today prevents technical debt tomorrow."</i></p>
