@@ -54,10 +54,6 @@ Systems Engineer with **7+ years of experience** building enterprise application
   <a href="mailto:cristcastano@gmail.com">
     <img src="https://img.shields.io/badge/Email-cristcastano%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="tel:+573117754978">
-    <img src="https://img.shields.io/badge/Phone-311%20775%2049%2078-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
 </p>
 
 <br/>
